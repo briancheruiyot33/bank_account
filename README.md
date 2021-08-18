@@ -7,4 +7,4 @@
       2. The program checks the user's account balance.
       3. It can deposit withdraw moneny from your account.
 ## Language used:
-  -C++
+  C++
